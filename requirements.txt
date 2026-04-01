@@ -1,0 +1,4 @@
+# Python dependencies
+# Add your required packages here, e.g.:
+# requests==2.31.0
+# flask==3.0.0
